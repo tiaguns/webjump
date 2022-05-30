@@ -1,10 +1,10 @@
 # OBSERVAÇÕES GERAIS
  
-* O arquivo "base.robot" foi criado para facilitar  a criação de keywords, facilitando  a escrita do arquivo de teste e deixando o código mais limpo. Este arquivo é a base para a execução de todos os testes e contem todas as configurações necessárias.
+* O arquivo "base.robot" foi criado para facilitar  a criação de keywords, facilitando  a escrita do arquivo de teste e deixando o código mais limpo. Este arquivo é a base para a execução de todos os testes e contém todas as configurações necessárias.
  
 * Foram adicionadas Tags  em cada caso de teste para facilitar a execução individual de casa caso de teste.
  
-* A biblioteca Screencap foi instalada para gerar evidencias de vídeo. Além da evidencias de vídeo foram capturados Screenshots após a execução de cada caso de teste. Esses arquivos estão na pasta de evidencias do projeto.
+* A biblioteca Screencap foi instalada para gerar evidências de vídeo. Além da evidências de vídeo foram capturados Screenshots após a execução de cada caso de teste. Esses arquivos estão na pasta de evidencias do projeto.
  
 ## CASO DE TESTE 001
  
@@ -21,7 +21,7 @@ Após clicados,  os  atributos "style" dos elementos são alterados para o valor
  
 ## CASO DE TESTE 002
  
-Dentro da mesma página, clique nos botões "One", "Two" e "Four" que encontram-se dentro do painel "IFRAME BUTTONS" e valide a não-presença dos mesmos.
+Dentro da mesma página, clique nos botões "One", "Two" e "Four" que se encontram no painel "IFRAME BUTTONS" e valide a não-presença dos mesmos.
  
 Nome do caso de Teste: Click Iframe Buttons
  
