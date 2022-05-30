@@ -1,0 +1,112 @@
+{"level":30,"time":"2022-05-30T15:36:52.279Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Listening on 52212"}
+{"level":30,"time":"2022-05-30T15:36:52.693Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:36:52.694Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:36:52.698Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:36:52.698Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:36:52.704Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T15:36:55.882Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T15:36:58.138Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T15:36:58.138Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T15:36:58.161Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T15:36:58.834Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T15:36:58.835Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T15:37:23.109Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T15:37:23.128Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getElement"}
+{"level":30,"time":"2022-05-30T15:37:23.130Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'panel_body_one')] in page."}
+{"level":30,"time":"2022-05-30T15:37:23.246Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getElement"}
+{"level":30,"time":"2022-05-30T15:37:23.258Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T15:37:23.259Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'panel_body_one')]//p//button[@id='btn_one'] in page."}
+{"level":30,"time":"2022-05-30T15:37:23.414Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T15:37:23.421Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T15:37:23.422Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'panel_body_one')]//p//button[@id='btn_two'] in page."}
+{"level":30,"time":"2022-05-30T15:37:23.709Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T15:37:23.718Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T15:37:23.718Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'panel_body_one')]//p//button[@id='btn_link'] in page."}
+{"level":30,"time":"2022-05-30T15:37:23.991Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T15:37:24.008Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:24.008Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Getting css of element on page"}
+{"level":30,"time":"2022-05-30T15:37:24.008Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'panel_body_one')]//p//button[@id='btn_one'] in page."}
+{"level":30,"time":"2022-05-30T15:37:24.124Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:24.137Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:24.138Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Getting css of element on page"}
+{"level":30,"time":"2022-05-30T15:37:24.138Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'panel_body_one')]//p//button[@id='btn_two'] in page."}
+{"level":30,"time":"2022-05-30T15:37:24.206Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:24.220Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:24.220Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Getting css of element on page"}
+{"level":30,"time":"2022-05-30T15:37:24.220Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'panel_body_one')]//p//button[@id='btn_link'] in page."}
+{"level":30,"time":"2022-05-30T15:37:24.289Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:26.533Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T15:37:27.072Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T15:37:27.077Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:27.078Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:27.087Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:27.087Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:27.092Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T15:37:29.860Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T15:37:32.027Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T15:37:32.028Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T15:37:32.045Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T15:37:32.747Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T15:37:32.747Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T15:37:34.210Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T15:37:34.230Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T15:37:34.230Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //button[@id='btn_one'] in page."}
+{"level":30,"time":"2022-05-30T15:37:35.079Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T15:37:35.086Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T15:37:35.086Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //button[@id='btn_two'] in page."}
+{"level":30,"time":"2022-05-30T15:37:35.339Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T15:37:35.344Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T15:37:35.344Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //button[@id='btn_link'] in page."}
+{"level":30,"time":"2022-05-30T15:37:35.582Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T15:37:35.588Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:35.588Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Getting css of element on page"}
+{"level":30,"time":"2022-05-30T15:37:35.588Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //button[@id='btn_one'] in page."}
+{"level":30,"time":"2022-05-30T15:37:35.677Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:35.686Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:35.686Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Getting css of element on page"}
+{"level":30,"time":"2022-05-30T15:37:35.686Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //button[@id='btn_two'] in page."}
+{"level":30,"time":"2022-05-30T15:37:35.764Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:35.769Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:35.769Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Getting css of element on page"}
+{"level":30,"time":"2022-05-30T15:37:35.769Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //button[@id='btn_link'] in page."}
+{"level":30,"time":"2022-05-30T15:37:35.855Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getStyle"}
+{"level":30,"time":"2022-05-30T15:37:38.061Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T15:37:38.603Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T15:37:38.611Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:38.611Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:38.615Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:38.615Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:38.624Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T15:37:41.384Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T15:37:43.520Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T15:37:43.520Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T15:37:43.536Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T15:37:44.077Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T15:37:44.077Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T15:37:50.687Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T15:37:50.705Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getElement"}
+{"level":30,"time":"2022-05-30T15:37:50.705Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'form_group')]//p//input[contains(@id,'first_name')] in page."}
+{"level":30,"time":"2022-05-30T15:37:50.765Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getElement"}
+{"level":30,"time":"2022-05-30T15:37:50.772Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-30T15:37:50.773Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'form_group')]//p//input[contains(@id,'first_name')] in page."}
+{"level":30,"time":"2022-05-30T15:37:50.844Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-30T15:37:50.857Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T15:37:50.857Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'panel_body_one')]//label[contains(.,'OptionThree')] in page."}
+{"level":30,"time":"2022-05-30T15:37:50.991Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T15:37:51.004Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T15:37:51.004Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'panel_body_one')]//select[contains(@id,'select_box')] in page."}
+{"level":30,"time":"2022-05-30T15:37:51.256Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T15:37:51.266Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-30T15:37:51.268Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //div[contains(@id,'panel_body_one')]//select[contains(@id,'select_box')] in page."}
+{"level":30,"time":"2022-05-30T15:37:51.469Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-30T15:37:53.483Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getElement"}
+{"level":30,"time":"2022-05-30T15:37:53.483Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Strict mode is disabled, return first Locator: //img[contains(@alt,'selenium')] in page."}
+{"level":30,"time":"2022-05-30T15:37:53.497Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getElement"}
+{"level":30,"time":"2022-05-30T15:37:55.701Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T15:37:56.186Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T15:37:56.191Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:56.191Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:56.197Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:56.197Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T15:37:56.330Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-05-30T15:37:56.330Z","pid":4744,"hostname":"NOTEBOOK-TIAGO","msg":"End of node method closeAllBrowsers"}
