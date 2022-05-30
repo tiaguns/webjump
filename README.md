@@ -94,8 +94,10 @@ Obs: Sugiro alterar o caminho de instalação para a raiz do disco (C:)
  
 * Foram adicionadas Tags  em cada caso de teste para facilitar a execução individual de casa caso de teste.
  
-* A biblioteca Screencap foi instalada para gerar evidências de vídeo. Além da evidências de vídeo foram capturados Screenshots após a execução de cada caso de teste. Esses arquivos estão na pasta de evidencias do projeto.
- 
+* A biblioteca Screencap foi instalada para gerar evidências de vídeo. Além da evidências de vídeo foram capturados Screenshots após a execução de cada caso de teste. 
+
+# 4. CASOS DE TESTE 
+
 ## CASO DE TESTE 001
  
 Crie um cenário onde clicamos nos botões "One", "Two, e "Four", depois verifique a ausência dos mesmos.
@@ -106,7 +108,7 @@ R: Nesse teste foi necessário encontrar um localizador único para cada botão,
  
 Ex: //div[contains(@id,'panel_body_one')]//p//button[@id='btn_one']
  
-Após clicados,  os  atributos "style" dos elementos são alterados para o valor "none", ocultando os mesmos. Utilizei este método para validar a ausência dos botões.
+Após clicados,  o  atributo "style" dos elementos são alterados para o valor "none", ocultando os mesmos. Utilizei este método para validar a ausência dos botões.
  
  ![screenshot_1](https://user-images.githubusercontent.com/99138821/171045200-73bf5aca-edff-4117-920b-4941ef4f3eff.png)
 
@@ -120,7 +122,7 @@ Dentro da mesma página, clique nos botões "One", "Two" e "Four" que se encontr
  
 Nome do caso de Teste: Click Iframe Buttons
  
-R: Nesse existe um documento html dentro da div, para executar esse teste foi aberta uma nova pagina através do link do painel separadamente, evitando assim a possibilidade de encontrar elementos duplicados. O ideal seria encontrar um localizador melhor dentro da própria página.
+R: Nesse caso existe um documento html dentro da div, para executar esse teste foi aberta uma nova pagina através do link do painel, separadamente, evitando assim a possibilidade de encontrar elementos duplicados. O ideal seria encontrar um localizador melhor dentro da própria página inicial.
  
 Utilizei o mesmo método do caso de teste 001 para validar a ausência dos botões.
 
