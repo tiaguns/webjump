@@ -33,14 +33,17 @@ PASSO A PASSO PARA INSTALAÇÃO E CONFIGURAÇÃO DO AMBIENTE
 2.	Na tela seguinte, selecionar as duas caixas com as seguintes opções:
  
 Install launcher for all users
- Add Python 3.10 to PATH (IMPORTANTE: para adicionar o Python nas variáveis de ambiente)
+
+Add Python 3.10 to PATH (IMPORTANTE: para adicionar o Python nas variáveis de ambiente)
  
 3.	Clicar em Customize Installation;
 4.	Na tela seguinte (Optional Features), deixe todas as opções selecionadas;
 5.	Na próxima tela (Advanced Options), além das opções marcadas por padrão, selecione as seguintes opções:
  
 Install for all users
+
 Precompile standard Library
+
 Obs: Sugiro alterar o caminho de instalação para a raiz do disco (C:)
  
 6.	Clicar em Install e aguarde a conclusão da instalação;
